@@ -1,0 +1,1630 @@
+DMWScraper:INFO - *****DMWScraper started*****
+DMWScraper:INFO - Fetching jobs from page 1
+DMWScraper:INFO - Jobs extracted: 50 || Current page: 1/2471
+DMWScraper:INFO - Fetching jobs from page 2
+DMWScraper:INFO - Jobs extracted: 100 || Current page: 2/2471
+DMWScraper:INFO - Fetching jobs from page 3
+DMWScraper:INFO - Jobs extracted: 150 || Current page: 3/2471
+DMWScraper:INFO - Fetching jobs from page 4
+DMWScraper:INFO - Jobs extracted: 200 || Current page: 4/2471
+DMWScraper:INFO - Fetching jobs from page 5
+DMWScraper:INFO - Jobs extracted: 250 || Current page: 5/2471
+DMWScraper:INFO - Fetching jobs from page 6
+DMWScraper:INFO - Jobs extracted: 300 || Current page: 6/2471
+DMWScraper:INFO - Fetching jobs from page 7
+DMWScraper:INFO - Jobs extracted: 350 || Current page: 7/2471
+DMWScraper:INFO - Fetching jobs from page 8
+DMWScraper:INFO - Jobs extracted: 400 || Current page: 8/2471
+DMWScraper:INFO - Fetching jobs from page 9
+DMWScraper:INFO - Jobs extracted: 450 || Current page: 9/2471
+DMWScraper:INFO - Fetching jobs from page 10
+DMWScraper:INFO - Jobs extracted: 500 || Current page: 10/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 11
+DMWScraper:INFO - Jobs extracted: 550 || Current page: 11/2471
+DMWScraper:INFO - Fetching jobs from page 12
+DMWScraper:INFO - Jobs extracted: 600 || Current page: 12/2471
+DMWScraper:INFO - Fetching jobs from page 13
+DMWScraper:INFO - Jobs extracted: 650 || Current page: 13/2471
+DMWScraper:INFO - Fetching jobs from page 14
+DMWScraper:INFO - Jobs extracted: 700 || Current page: 14/2471
+DMWScraper:INFO - Fetching jobs from page 15
+DMWScraper:INFO - Jobs extracted: 750 || Current page: 15/2471
+DMWScraper:INFO - Fetching jobs from page 16
+DMWScraper:INFO - Jobs extracted: 800 || Current page: 16/2471
+DMWScraper:INFO - Fetching jobs from page 17
+DMWScraper:INFO - Jobs extracted: 850 || Current page: 17/2471
+DMWScraper:INFO - Fetching jobs from page 18
+DMWScraper:INFO - Jobs extracted: 900 || Current page: 18/2471
+DMWScraper:INFO - Fetching jobs from page 19
+DMWScraper:INFO - Jobs extracted: 950 || Current page: 19/2471
+DMWScraper:INFO - Fetching jobs from page 20
+DMWScraper:INFO - Jobs extracted: 1000 || Current page: 20/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 21
+DMWScraper:INFO - Jobs extracted: 1050 || Current page: 21/2471
+DMWScraper:INFO - Fetching jobs from page 22
+DMWScraper:INFO - Jobs extracted: 1100 || Current page: 22/2471
+DMWScraper:INFO - Fetching jobs from page 23
+DMWScraper:INFO - Jobs extracted: 1150 || Current page: 23/2471
+DMWScraper:INFO - Fetching jobs from page 24
+DMWScraper:INFO - Jobs extracted: 1200 || Current page: 24/2471
+DMWScraper:INFO - Fetching jobs from page 25
+DMWScraper:INFO - Jobs extracted: 1250 || Current page: 25/2471
+DMWScraper:INFO - Fetching jobs from page 26
+DMWScraper:INFO - Jobs extracted: 1300 || Current page: 26/2471
+DMWScraper:INFO - Fetching jobs from page 27
+DMWScraper:INFO - Jobs extracted: 1350 || Current page: 27/2471
+DMWScraper:INFO - Fetching jobs from page 28
+DMWScraper:INFO - Jobs extracted: 1400 || Current page: 28/2471
+DMWScraper:INFO - Fetching jobs from page 29
+DMWScraper:INFO - Jobs extracted: 1450 || Current page: 29/2471
+DMWScraper:INFO - Fetching jobs from page 30
+DMWScraper:INFO - Jobs extracted: 1500 || Current page: 30/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 31
+DMWScraper:INFO - Jobs extracted: 1550 || Current page: 31/2471
+DMWScraper:INFO - Fetching jobs from page 32
+DMWScraper:INFO - Jobs extracted: 1600 || Current page: 32/2471
+DMWScraper:INFO - Fetching jobs from page 33
+DMWScraper:INFO - Jobs extracted: 1650 || Current page: 33/2471
+DMWScraper:INFO - Fetching jobs from page 34
+DMWScraper:INFO - Jobs extracted: 1700 || Current page: 34/2471
+DMWScraper:INFO - Fetching jobs from page 35
+DMWScraper:INFO - Jobs extracted: 1750 || Current page: 35/2471
+DMWScraper:INFO - Fetching jobs from page 36
+DMWScraper:INFO - Jobs extracted: 1800 || Current page: 36/2471
+DMWScraper:INFO - Fetching jobs from page 37
+DMWScraper:INFO - Jobs extracted: 1850 || Current page: 37/2471
+DMWScraper:INFO - Fetching jobs from page 38
+DMWScraper:INFO - Jobs extracted: 1900 || Current page: 38/2471
+DMWScraper:INFO - Fetching jobs from page 39
+DMWScraper:INFO - Jobs extracted: 1950 || Current page: 39/2471
+DMWScraper:INFO - Fetching jobs from page 40
+DMWScraper:INFO - Jobs extracted: 2000 || Current page: 40/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 41
+DMWScraper:INFO - Jobs extracted: 2050 || Current page: 41/2471
+DMWScraper:INFO - Fetching jobs from page 42
+DMWScraper:INFO - Jobs extracted: 2100 || Current page: 42/2471
+DMWScraper:INFO - Fetching jobs from page 43
+DMWScraper:INFO - Jobs extracted: 2150 || Current page: 43/2471
+DMWScraper:INFO - Fetching jobs from page 44
+DMWScraper:INFO - Jobs extracted: 2200 || Current page: 44/2471
+DMWScraper:INFO - Fetching jobs from page 45
+DMWScraper:INFO - Jobs extracted: 2250 || Current page: 45/2471
+DMWScraper:INFO - Fetching jobs from page 46
+DMWScraper:INFO - Jobs extracted: 2300 || Current page: 46/2471
+DMWScraper:INFO - Fetching jobs from page 47
+DMWScraper:INFO - Jobs extracted: 2350 || Current page: 47/2471
+DMWScraper:INFO - Fetching jobs from page 48
+DMWScraper:INFO - Jobs extracted: 2400 || Current page: 48/2471
+DMWScraper:INFO - Fetching jobs from page 49
+DMWScraper:INFO - Jobs extracted: 2450 || Current page: 49/2471
+DMWScraper:INFO - Fetching jobs from page 50
+DMWScraper:INFO - Jobs extracted: 2500 || Current page: 50/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 51
+DMWScraper:INFO - Jobs extracted: 2550 || Current page: 51/2471
+DMWScraper:INFO - Fetching jobs from page 52
+DMWScraper:INFO - Jobs extracted: 2600 || Current page: 52/2471
+DMWScraper:INFO - Fetching jobs from page 53
+DMWScraper:INFO - Jobs extracted: 2650 || Current page: 53/2471
+DMWScraper:INFO - Fetching jobs from page 54
+DMWScraper:INFO - Jobs extracted: 2700 || Current page: 54/2471
+DMWScraper:INFO - Fetching jobs from page 55
+DMWScraper:INFO - Jobs extracted: 2750 || Current page: 55/2471
+DMWScraper:INFO - Fetching jobs from page 56
+DMWScraper:INFO - Jobs extracted: 2800 || Current page: 56/2471
+DMWScraper:INFO - Fetching jobs from page 57
+DMWScraper:INFO - Jobs extracted: 2850 || Current page: 57/2471
+DMWScraper:INFO - Fetching jobs from page 58
+DMWScraper:INFO - Jobs extracted: 2900 || Current page: 58/2471
+DMWScraper:INFO - Fetching jobs from page 59
+DMWScraper:INFO - Jobs extracted: 2950 || Current page: 59/2471
+DMWScraper:INFO - Fetching jobs from page 60
+DMWScraper:INFO - Jobs extracted: 3000 || Current page: 60/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 61
+DMWScraper:INFO - Jobs extracted: 3050 || Current page: 61/2471
+DMWScraper:INFO - Fetching jobs from page 62
+DMWScraper:INFO - Jobs extracted: 3100 || Current page: 62/2471
+DMWScraper:INFO - Fetching jobs from page 63
+DMWScraper:INFO - Jobs extracted: 3150 || Current page: 63/2471
+DMWScraper:INFO - Fetching jobs from page 64
+DMWScraper:INFO - Jobs extracted: 3200 || Current page: 64/2471
+DMWScraper:INFO - Fetching jobs from page 65
+DMWScraper:INFO - Jobs extracted: 3250 || Current page: 65/2471
+DMWScraper:INFO - Fetching jobs from page 66
+DMWScraper:INFO - Jobs extracted: 3300 || Current page: 66/2471
+DMWScraper:INFO - Fetching jobs from page 67
+DMWScraper:INFO - Jobs extracted: 3350 || Current page: 67/2471
+DMWScraper:INFO - Fetching jobs from page 68
+DMWScraper:INFO - Jobs extracted: 3400 || Current page: 68/2471
+DMWScraper:INFO - Fetching jobs from page 69
+DMWScraper:INFO - Jobs extracted: 3450 || Current page: 69/2471
+DMWScraper:INFO - Fetching jobs from page 70
+DMWScraper:INFO - Jobs extracted: 3500 || Current page: 70/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 71
+DMWScraper:INFO - Jobs extracted: 3550 || Current page: 71/2471
+DMWScraper:INFO - Fetching jobs from page 72
+DMWScraper:INFO - Jobs extracted: 3600 || Current page: 72/2471
+DMWScraper:INFO - Fetching jobs from page 73
+DMWScraper:INFO - Jobs extracted: 3650 || Current page: 73/2471
+DMWScraper:INFO - Fetching jobs from page 74
+DMWScraper:INFO - Jobs extracted: 3700 || Current page: 74/2471
+DMWScraper:INFO - Fetching jobs from page 75
+DMWScraper:INFO - Jobs extracted: 3750 || Current page: 75/2471
+DMWScraper:INFO - Fetching jobs from page 76
+DMWScraper:INFO - Jobs extracted: 3800 || Current page: 76/2471
+DMWScraper:INFO - Fetching jobs from page 77
+DMWScraper:INFO - Jobs extracted: 3850 || Current page: 77/2471
+DMWScraper:INFO - Fetching jobs from page 78
+DMWScraper:INFO - Jobs extracted: 3900 || Current page: 78/2471
+DMWScraper:INFO - Fetching jobs from page 79
+DMWScraper:INFO - Jobs extracted: 3950 || Current page: 79/2471
+DMWScraper:INFO - Fetching jobs from page 80
+DMWScraper:INFO - Jobs extracted: 4000 || Current page: 80/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 81
+DMWScraper:INFO - Jobs extracted: 4050 || Current page: 81/2471
+DMWScraper:INFO - Fetching jobs from page 82
+DMWScraper:INFO - Jobs extracted: 4100 || Current page: 82/2471
+DMWScraper:INFO - Fetching jobs from page 83
+DMWScraper:INFO - Jobs extracted: 4150 || Current page: 83/2471
+DMWScraper:INFO - Fetching jobs from page 84
+DMWScraper:INFO - Jobs extracted: 4200 || Current page: 84/2471
+DMWScraper:INFO - Fetching jobs from page 85
+DMWScraper:INFO - Jobs extracted: 4250 || Current page: 85/2471
+DMWScraper:INFO - Fetching jobs from page 86
+DMWScraper:INFO - Jobs extracted: 4300 || Current page: 86/2471
+DMWScraper:INFO - Fetching jobs from page 87
+DMWScraper:INFO - Jobs extracted: 4350 || Current page: 87/2471
+DMWScraper:INFO - Fetching jobs from page 88
+DMWScraper:INFO - Jobs extracted: 4400 || Current page: 88/2471
+DMWScraper:INFO - Fetching jobs from page 89
+DMWScraper:INFO - Jobs extracted: 4450 || Current page: 89/2471
+DMWScraper:INFO - Fetching jobs from page 90
+DMWScraper:INFO - Jobs extracted: 4500 || Current page: 90/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 91
+DMWScraper:INFO - Jobs extracted: 4550 || Current page: 91/2471
+DMWScraper:INFO - Fetching jobs from page 92
+DMWScraper:INFO - Jobs extracted: 4600 || Current page: 92/2471
+DMWScraper:INFO - Fetching jobs from page 93
+DMWScraper:INFO - Jobs extracted: 4650 || Current page: 93/2471
+DMWScraper:INFO - Fetching jobs from page 94
+DMWScraper:INFO - Jobs extracted: 4700 || Current page: 94/2471
+DMWScraper:INFO - Fetching jobs from page 95
+DMWScraper:INFO - Jobs extracted: 4750 || Current page: 95/2471
+DMWScraper:INFO - Fetching jobs from page 96
+DMWScraper:INFO - Jobs extracted: 4800 || Current page: 96/2471
+DMWScraper:INFO - Fetching jobs from page 97
+DMWScraper:INFO - Jobs extracted: 4850 || Current page: 97/2471
+DMWScraper:INFO - Fetching jobs from page 98
+DMWScraper:INFO - Jobs extracted: 4900 || Current page: 98/2471
+DMWScraper:INFO - Fetching jobs from page 99
+DMWScraper:INFO - Jobs extracted: 4950 || Current page: 99/2471
+DMWScraper:INFO - Fetching jobs from page 100
+DMWScraper:INFO - Jobs extracted: 5000 || Current page: 100/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 101
+DMWScraper:INFO - Jobs extracted: 5050 || Current page: 101/2471
+DMWScraper:INFO - Fetching jobs from page 102
+DMWScraper:INFO - Jobs extracted: 5100 || Current page: 102/2471
+DMWScraper:INFO - Fetching jobs from page 103
+DMWScraper:INFO - Jobs extracted: 5150 || Current page: 103/2471
+DMWScraper:INFO - Fetching jobs from page 104
+DMWScraper:INFO - Jobs extracted: 5200 || Current page: 104/2471
+DMWScraper:INFO - Fetching jobs from page 105
+DMWScraper:INFO - Jobs extracted: 5250 || Current page: 105/2471
+DMWScraper:INFO - Fetching jobs from page 106
+DMWScraper:INFO - Jobs extracted: 5300 || Current page: 106/2471
+DMWScraper:INFO - Fetching jobs from page 107
+DMWScraper:INFO - Jobs extracted: 5350 || Current page: 107/2471
+DMWScraper:INFO - Fetching jobs from page 108
+DMWScraper:INFO - Jobs extracted: 5400 || Current page: 108/2471
+DMWScraper:INFO - Fetching jobs from page 109
+DMWScraper:INFO - Jobs extracted: 5450 || Current page: 109/2471
+DMWScraper:INFO - Fetching jobs from page 110
+DMWScraper:INFO - Jobs extracted: 5500 || Current page: 110/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 111
+DMWScraper:INFO - Jobs extracted: 5550 || Current page: 111/2471
+DMWScraper:INFO - Fetching jobs from page 112
+DMWScraper:INFO - Jobs extracted: 5600 || Current page: 112/2471
+DMWScraper:INFO - Fetching jobs from page 113
+DMWScraper:INFO - Jobs extracted: 5650 || Current page: 113/2471
+DMWScraper:INFO - Fetching jobs from page 114
+DMWScraper:INFO - Jobs extracted: 5700 || Current page: 114/2471
+DMWScraper:INFO - Fetching jobs from page 115
+DMWScraper:INFO - Jobs extracted: 5750 || Current page: 115/2471
+DMWScraper:INFO - Fetching jobs from page 116
+DMWScraper:INFO - Jobs extracted: 5800 || Current page: 116/2471
+DMWScraper:INFO - Fetching jobs from page 117
+DMWScraper:INFO - Jobs extracted: 5850 || Current page: 117/2471
+DMWScraper:INFO - Fetching jobs from page 118
+DMWScraper:INFO - Jobs extracted: 5900 || Current page: 118/2471
+DMWScraper:INFO - Fetching jobs from page 119
+DMWScraper:INFO - Jobs extracted: 5950 || Current page: 119/2471
+DMWScraper:INFO - Fetching jobs from page 120
+DMWScraper:INFO - Jobs extracted: 6000 || Current page: 120/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 121
+DMWScraper:INFO - Jobs extracted: 6050 || Current page: 121/2471
+DMWScraper:INFO - Fetching jobs from page 122
+DMWScraper:INFO - Jobs extracted: 6100 || Current page: 122/2471
+DMWScraper:INFO - Fetching jobs from page 123
+DMWScraper:INFO - Jobs extracted: 6150 || Current page: 123/2471
+DMWScraper:INFO - Fetching jobs from page 124
+DMWScraper:INFO - Jobs extracted: 6200 || Current page: 124/2471
+DMWScraper:INFO - Fetching jobs from page 125
+DMWScraper:INFO - Jobs extracted: 6250 || Current page: 125/2471
+DMWScraper:INFO - Fetching jobs from page 126
+DMWScraper:INFO - Jobs extracted: 6300 || Current page: 126/2471
+DMWScraper:INFO - Fetching jobs from page 127
+DMWScraper:INFO - Jobs extracted: 6350 || Current page: 127/2471
+DMWScraper:INFO - Fetching jobs from page 128
+DMWScraper:INFO - Jobs extracted: 6400 || Current page: 128/2471
+DMWScraper:INFO - Fetching jobs from page 129
+DMWScraper:INFO - Jobs extracted: 6450 || Current page: 129/2471
+DMWScraper:INFO - Fetching jobs from page 130
+DMWScraper:INFO - Jobs extracted: 6500 || Current page: 130/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 131
+DMWScraper:INFO - Jobs extracted: 6550 || Current page: 131/2471
+DMWScraper:INFO - Fetching jobs from page 132
+DMWScraper:INFO - Jobs extracted: 6600 || Current page: 132/2471
+DMWScraper:INFO - Fetching jobs from page 133
+DMWScraper:INFO - Jobs extracted: 6650 || Current page: 133/2471
+DMWScraper:INFO - Fetching jobs from page 134
+DMWScraper:INFO - Jobs extracted: 6700 || Current page: 134/2471
+DMWScraper:INFO - Fetching jobs from page 135
+DMWScraper:INFO - Jobs extracted: 6750 || Current page: 135/2471
+DMWScraper:INFO - Fetching jobs from page 136
+DMWScraper:INFO - Jobs extracted: 6800 || Current page: 136/2471
+DMWScraper:INFO - Fetching jobs from page 137
+DMWScraper:INFO - Jobs extracted: 6850 || Current page: 137/2471
+DMWScraper:INFO - Fetching jobs from page 138
+DMWScraper:INFO - Jobs extracted: 6900 || Current page: 138/2471
+DMWScraper:INFO - Fetching jobs from page 139
+DMWScraper:INFO - Jobs extracted: 6950 || Current page: 139/2471
+DMWScraper:INFO - Fetching jobs from page 140
+DMWScraper:INFO - Jobs extracted: 7000 || Current page: 140/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 141
+DMWScraper:INFO - Jobs extracted: 7050 || Current page: 141/2471
+DMWScraper:INFO - Fetching jobs from page 142
+DMWScraper:INFO - Jobs extracted: 7100 || Current page: 142/2471
+DMWScraper:INFO - Fetching jobs from page 143
+DMWScraper:INFO - Jobs extracted: 7150 || Current page: 143/2471
+DMWScraper:INFO - Fetching jobs from page 144
+DMWScraper:INFO - Jobs extracted: 7200 || Current page: 144/2471
+DMWScraper:INFO - Fetching jobs from page 145
+DMWScraper:INFO - Jobs extracted: 7250 || Current page: 145/2471
+DMWScraper:INFO - Fetching jobs from page 146
+DMWScraper:INFO - Jobs extracted: 7300 || Current page: 146/2471
+DMWScraper:INFO - Fetching jobs from page 147
+DMWScraper:INFO - Jobs extracted: 7350 || Current page: 147/2471
+DMWScraper:INFO - Fetching jobs from page 148
+DMWScraper:INFO - Jobs extracted: 7400 || Current page: 148/2471
+DMWScraper:INFO - Fetching jobs from page 149
+DMWScraper:INFO - Jobs extracted: 7450 || Current page: 149/2471
+DMWScraper:INFO - Fetching jobs from page 150
+DMWScraper:INFO - Jobs extracted: 7500 || Current page: 150/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 151
+DMWScraper:INFO - Jobs extracted: 7550 || Current page: 151/2471
+DMWScraper:INFO - Fetching jobs from page 152
+DMWScraper:INFO - Jobs extracted: 7600 || Current page: 152/2471
+DMWScraper:INFO - Fetching jobs from page 153
+DMWScraper:INFO - Jobs extracted: 7650 || Current page: 153/2471
+DMWScraper:INFO - Fetching jobs from page 154
+DMWScraper:INFO - Jobs extracted: 7700 || Current page: 154/2471
+DMWScraper:INFO - Fetching jobs from page 155
+DMWScraper:INFO - Jobs extracted: 7750 || Current page: 155/2471
+DMWScraper:INFO - Fetching jobs from page 156
+DMWScraper:INFO - Jobs extracted: 7800 || Current page: 156/2471
+DMWScraper:INFO - Fetching jobs from page 157
+DMWScraper:INFO - Jobs extracted: 7850 || Current page: 157/2471
+DMWScraper:INFO - Fetching jobs from page 158
+DMWScraper:INFO - Jobs extracted: 7900 || Current page: 158/2471
+DMWScraper:INFO - Fetching jobs from page 159
+DMWScraper:INFO - Jobs extracted: 7950 || Current page: 159/2471
+DMWScraper:INFO - Fetching jobs from page 160
+DMWScraper:INFO - Jobs extracted: 8000 || Current page: 160/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 161
+DMWScraper:INFO - Jobs extracted: 8050 || Current page: 161/2471
+DMWScraper:INFO - Fetching jobs from page 162
+DMWScraper:INFO - Jobs extracted: 8100 || Current page: 162/2471
+DMWScraper:INFO - Fetching jobs from page 163
+DMWScraper:INFO - Jobs extracted: 8150 || Current page: 163/2471
+DMWScraper:INFO - Fetching jobs from page 164
+DMWScraper:INFO - Jobs extracted: 8200 || Current page: 164/2471
+DMWScraper:INFO - Fetching jobs from page 165
+DMWScraper:INFO - Jobs extracted: 8250 || Current page: 165/2471
+DMWScraper:INFO - Fetching jobs from page 166
+DMWScraper:INFO - Jobs extracted: 8300 || Current page: 166/2471
+DMWScraper:INFO - Fetching jobs from page 167
+DMWScraper:INFO - Jobs extracted: 8350 || Current page: 167/2471
+DMWScraper:INFO - Fetching jobs from page 168
+DMWScraper:INFO - Jobs extracted: 8400 || Current page: 168/2471
+DMWScraper:INFO - Fetching jobs from page 169
+DMWScraper:INFO - Jobs extracted: 8450 || Current page: 169/2471
+DMWScraper:INFO - Fetching jobs from page 170
+DMWScraper:INFO - Jobs extracted: 8500 || Current page: 170/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 171
+DMWScraper:INFO - Jobs extracted: 8550 || Current page: 171/2471
+DMWScraper:INFO - Fetching jobs from page 172
+DMWScraper:INFO - Jobs extracted: 8600 || Current page: 172/2471
+DMWScraper:INFO - Fetching jobs from page 173
+DMWScraper:INFO - Jobs extracted: 8650 || Current page: 173/2471
+DMWScraper:INFO - Fetching jobs from page 174
+DMWScraper:INFO - Jobs extracted: 8700 || Current page: 174/2471
+DMWScraper:INFO - Fetching jobs from page 175
+DMWScraper:INFO - Jobs extracted: 8750 || Current page: 175/2471
+DMWScraper:INFO - Fetching jobs from page 176
+DMWScraper:INFO - Jobs extracted: 8800 || Current page: 176/2471
+DMWScraper:INFO - Fetching jobs from page 177
+DMWScraper:INFO - Jobs extracted: 8850 || Current page: 177/2471
+DMWScraper:INFO - Fetching jobs from page 178
+DMWScraper:INFO - Jobs extracted: 8900 || Current page: 178/2471
+DMWScraper:INFO - Fetching jobs from page 179
+DMWScraper:INFO - Jobs extracted: 8950 || Current page: 179/2471
+DMWScraper:INFO - Fetching jobs from page 180
+DMWScraper:INFO - Jobs extracted: 9000 || Current page: 180/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 181
+DMWScraper:INFO - Jobs extracted: 9050 || Current page: 181/2471
+DMWScraper:INFO - Fetching jobs from page 182
+DMWScraper:INFO - Jobs extracted: 9100 || Current page: 182/2471
+DMWScraper:INFO - Fetching jobs from page 183
+DMWScraper:INFO - Jobs extracted: 9150 || Current page: 183/2471
+DMWScraper:INFO - Fetching jobs from page 184
+DMWScraper:INFO - Jobs extracted: 9200 || Current page: 184/2471
+DMWScraper:INFO - Fetching jobs from page 185
+DMWScraper:INFO - Jobs extracted: 9250 || Current page: 185/2471
+DMWScraper:INFO - Fetching jobs from page 186
+DMWScraper:INFO - Jobs extracted: 9300 || Current page: 186/2471
+DMWScraper:INFO - Fetching jobs from page 187
+DMWScraper:INFO - Jobs extracted: 9350 || Current page: 187/2471
+DMWScraper:INFO - Fetching jobs from page 188
+DMWScraper:INFO - Jobs extracted: 9400 || Current page: 188/2471
+DMWScraper:INFO - Fetching jobs from page 189
+DMWScraper:INFO - Jobs extracted: 9450 || Current page: 189/2471
+DMWScraper:INFO - Fetching jobs from page 190
+DMWScraper:INFO - Jobs extracted: 9500 || Current page: 190/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 191
+DMWScraper:INFO - Jobs extracted: 9550 || Current page: 191/2471
+DMWScraper:INFO - Fetching jobs from page 192
+DMWScraper:INFO - Jobs extracted: 9600 || Current page: 192/2471
+DMWScraper:INFO - Fetching jobs from page 193
+DMWScraper:INFO - Jobs extracted: 9650 || Current page: 193/2471
+DMWScraper:INFO - Fetching jobs from page 194
+DMWScraper:INFO - Jobs extracted: 9700 || Current page: 194/2471
+DMWScraper:INFO - Fetching jobs from page 195
+DMWScraper:INFO - Jobs extracted: 9750 || Current page: 195/2471
+DMWScraper:INFO - Fetching jobs from page 196
+DMWScraper:INFO - Jobs extracted: 9800 || Current page: 196/2471
+DMWScraper:INFO - Fetching jobs from page 197
+DMWScraper:INFO - Jobs extracted: 9850 || Current page: 197/2471
+DMWScraper:INFO - Fetching jobs from page 198
+DMWScraper:INFO - Jobs extracted: 9900 || Current page: 198/2471
+DMWScraper:INFO - Fetching jobs from page 199
+DMWScraper:INFO - Jobs extracted: 9950 || Current page: 199/2471
+DMWScraper:INFO - Fetching jobs from page 200
+DMWScraper:INFO - Jobs extracted: 10000 || Current page: 200/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 201
+DMWScraper:INFO - Jobs extracted: 10050 || Current page: 201/2471
+DMWScraper:INFO - Fetching jobs from page 202
+DMWScraper:INFO - Jobs extracted: 10100 || Current page: 202/2471
+DMWScraper:INFO - Fetching jobs from page 203
+DMWScraper:INFO - Jobs extracted: 10150 || Current page: 203/2471
+DMWScraper:INFO - Fetching jobs from page 204
+DMWScraper:INFO - Jobs extracted: 10200 || Current page: 204/2471
+DMWScraper:INFO - Fetching jobs from page 205
+DMWScraper:INFO - Jobs extracted: 10250 || Current page: 205/2471
+DMWScraper:INFO - Fetching jobs from page 206
+DMWScraper:INFO - Jobs extracted: 10300 || Current page: 206/2471
+DMWScraper:INFO - Fetching jobs from page 207
+DMWScraper:INFO - Jobs extracted: 10350 || Current page: 207/2471
+DMWScraper:INFO - Fetching jobs from page 208
+DMWScraper:INFO - Jobs extracted: 10400 || Current page: 208/2471
+DMWScraper:INFO - Fetching jobs from page 209
+DMWScraper:INFO - Jobs extracted: 10450 || Current page: 209/2471
+DMWScraper:INFO - Fetching jobs from page 210
+DMWScraper:INFO - Jobs extracted: 10500 || Current page: 210/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 211
+DMWScraper:INFO - Jobs extracted: 10550 || Current page: 211/2471
+DMWScraper:INFO - Fetching jobs from page 212
+DMWScraper:INFO - Jobs extracted: 10600 || Current page: 212/2471
+DMWScraper:INFO - Fetching jobs from page 213
+DMWScraper:INFO - Jobs extracted: 10650 || Current page: 213/2471
+DMWScraper:INFO - Fetching jobs from page 214
+DMWScraper:INFO - Jobs extracted: 10700 || Current page: 214/2471
+DMWScraper:INFO - Fetching jobs from page 215
+DMWScraper:INFO - Jobs extracted: 10750 || Current page: 215/2471
+DMWScraper:INFO - Fetching jobs from page 216
+DMWScraper:INFO - Jobs extracted: 10800 || Current page: 216/2471
+DMWScraper:INFO - Fetching jobs from page 217
+DMWScraper:INFO - Jobs extracted: 10850 || Current page: 217/2471
+DMWScraper:INFO - Fetching jobs from page 218
+DMWScraper:INFO - Jobs extracted: 10900 || Current page: 218/2471
+DMWScraper:INFO - Fetching jobs from page 219
+DMWScraper:INFO - Jobs extracted: 10950 || Current page: 219/2471
+DMWScraper:INFO - Fetching jobs from page 220
+DMWScraper:INFO - Jobs extracted: 11000 || Current page: 220/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 221
+DMWScraper:INFO - Jobs extracted: 11050 || Current page: 221/2471
+DMWScraper:INFO - Fetching jobs from page 222
+DMWScraper:INFO - Jobs extracted: 11100 || Current page: 222/2471
+DMWScraper:INFO - Fetching jobs from page 223
+DMWScraper:INFO - Jobs extracted: 11150 || Current page: 223/2471
+DMWScraper:INFO - Fetching jobs from page 224
+DMWScraper:INFO - Jobs extracted: 11200 || Current page: 224/2471
+DMWScraper:INFO - Fetching jobs from page 225
+DMWScraper:INFO - Jobs extracted: 11250 || Current page: 225/2471
+DMWScraper:INFO - Fetching jobs from page 226
+DMWScraper:INFO - Jobs extracted: 11300 || Current page: 226/2471
+DMWScraper:INFO - Fetching jobs from page 227
+DMWScraper:INFO - Jobs extracted: 11350 || Current page: 227/2471
+DMWScraper:INFO - Fetching jobs from page 228
+DMWScraper:INFO - Jobs extracted: 11400 || Current page: 228/2471
+DMWScraper:INFO - Fetching jobs from page 229
+DMWScraper:INFO - Jobs extracted: 11450 || Current page: 229/2471
+DMWScraper:INFO - Fetching jobs from page 230
+DMWScraper:INFO - Jobs extracted: 11500 || Current page: 230/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 231
+DMWScraper:INFO - Jobs extracted: 11550 || Current page: 231/2471
+DMWScraper:INFO - Fetching jobs from page 232
+DMWScraper:INFO - Jobs extracted: 11600 || Current page: 232/2471
+DMWScraper:INFO - Fetching jobs from page 233
+DMWScraper:INFO - Jobs extracted: 11650 || Current page: 233/2471
+DMWScraper:INFO - Fetching jobs from page 234
+DMWScraper:INFO - Jobs extracted: 11700 || Current page: 234/2471
+DMWScraper:INFO - Fetching jobs from page 235
+DMWScraper:INFO - Jobs extracted: 11750 || Current page: 235/2471
+DMWScraper:INFO - Fetching jobs from page 236
+DMWScraper:INFO - Jobs extracted: 11800 || Current page: 236/2471
+DMWScraper:INFO - Fetching jobs from page 237
+DMWScraper:INFO - Jobs extracted: 11850 || Current page: 237/2471
+DMWScraper:INFO - Fetching jobs from page 238
+DMWScraper:INFO - Jobs extracted: 11900 || Current page: 238/2471
+DMWScraper:INFO - Fetching jobs from page 239
+DMWScraper:INFO - Jobs extracted: 11950 || Current page: 239/2471
+DMWScraper:INFO - Fetching jobs from page 240
+DMWScraper:INFO - Jobs extracted: 12000 || Current page: 240/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 241
+DMWScraper:INFO - Jobs extracted: 12050 || Current page: 241/2471
+DMWScraper:INFO - Fetching jobs from page 242
+DMWScraper:INFO - Jobs extracted: 12100 || Current page: 242/2471
+DMWScraper:INFO - Fetching jobs from page 243
+DMWScraper:INFO - Jobs extracted: 12150 || Current page: 243/2471
+DMWScraper:INFO - Fetching jobs from page 244
+DMWScraper:INFO - Jobs extracted: 12200 || Current page: 244/2471
+DMWScraper:INFO - Fetching jobs from page 245
+DMWScraper:INFO - Jobs extracted: 12250 || Current page: 245/2471
+DMWScraper:INFO - Fetching jobs from page 246
+DMWScraper:INFO - Jobs extracted: 12300 || Current page: 246/2471
+DMWScraper:INFO - Fetching jobs from page 247
+DMWScraper:INFO - Jobs extracted: 12350 || Current page: 247/2471
+DMWScraper:INFO - Fetching jobs from page 248
+DMWScraper:INFO - Jobs extracted: 12400 || Current page: 248/2471
+DMWScraper:INFO - Fetching jobs from page 249
+DMWScraper:INFO - Jobs extracted: 12450 || Current page: 249/2471
+DMWScraper:INFO - Fetching jobs from page 250
+DMWScraper:INFO - Jobs extracted: 12500 || Current page: 250/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 251
+DMWScraper:INFO - Jobs extracted: 12550 || Current page: 251/2471
+DMWScraper:INFO - Fetching jobs from page 252
+DMWScraper:INFO - Jobs extracted: 12600 || Current page: 252/2471
+DMWScraper:INFO - Fetching jobs from page 253
+DMWScraper:INFO - Jobs extracted: 12650 || Current page: 253/2471
+DMWScraper:INFO - Fetching jobs from page 254
+DMWScraper:INFO - Jobs extracted: 12700 || Current page: 254/2471
+DMWScraper:INFO - Fetching jobs from page 255
+DMWScraper:INFO - Jobs extracted: 12750 || Current page: 255/2471
+DMWScraper:INFO - Fetching jobs from page 256
+DMWScraper:INFO - Jobs extracted: 12800 || Current page: 256/2471
+DMWScraper:INFO - Fetching jobs from page 257
+DMWScraper:INFO - Jobs extracted: 12850 || Current page: 257/2471
+DMWScraper:INFO - Fetching jobs from page 258
+DMWScraper:INFO - Jobs extracted: 12900 || Current page: 258/2471
+DMWScraper:INFO - Fetching jobs from page 259
+DMWScraper:INFO - Jobs extracted: 12950 || Current page: 259/2471
+DMWScraper:INFO - Fetching jobs from page 260
+DMWScraper:INFO - Jobs extracted: 13000 || Current page: 260/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 261
+DMWScraper:INFO - Jobs extracted: 13050 || Current page: 261/2471
+DMWScraper:INFO - Fetching jobs from page 262
+DMWScraper:INFO - Jobs extracted: 13100 || Current page: 262/2471
+DMWScraper:INFO - Fetching jobs from page 263
+DMWScraper:INFO - Jobs extracted: 13150 || Current page: 263/2471
+DMWScraper:INFO - Fetching jobs from page 264
+DMWScraper:INFO - Jobs extracted: 13200 || Current page: 264/2471
+DMWScraper:INFO - Fetching jobs from page 265
+DMWScraper:INFO - Jobs extracted: 13250 || Current page: 265/2471
+DMWScraper:INFO - Fetching jobs from page 266
+DMWScraper:INFO - Jobs extracted: 13300 || Current page: 266/2471
+DMWScraper:INFO - Fetching jobs from page 267
+DMWScraper:INFO - Jobs extracted: 13350 || Current page: 267/2471
+DMWScraper:INFO - Fetching jobs from page 268
+DMWScraper:INFO - Jobs extracted: 13400 || Current page: 268/2471
+DMWScraper:INFO - Fetching jobs from page 269
+DMWScraper:INFO - Jobs extracted: 13450 || Current page: 269/2471
+DMWScraper:INFO - Fetching jobs from page 270
+DMWScraper:INFO - Jobs extracted: 13500 || Current page: 270/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 271
+DMWScraper:INFO - Jobs extracted: 13550 || Current page: 271/2471
+DMWScraper:INFO - Fetching jobs from page 272
+DMWScraper:INFO - Jobs extracted: 13600 || Current page: 272/2471
+DMWScraper:INFO - Fetching jobs from page 273
+DMWScraper:INFO - Jobs extracted: 13650 || Current page: 273/2471
+DMWScraper:INFO - Fetching jobs from page 274
+DMWScraper:INFO - Jobs extracted: 13700 || Current page: 274/2471
+DMWScraper:INFO - Fetching jobs from page 275
+DMWScraper:INFO - Jobs extracted: 13750 || Current page: 275/2471
+DMWScraper:INFO - Fetching jobs from page 276
+DMWScraper:INFO - Jobs extracted: 13800 || Current page: 276/2471
+DMWScraper:INFO - Fetching jobs from page 277
+DMWScraper:INFO - Jobs extracted: 13850 || Current page: 277/2471
+DMWScraper:INFO - Fetching jobs from page 278
+DMWScraper:INFO - Jobs extracted: 13900 || Current page: 278/2471
+DMWScraper:INFO - Fetching jobs from page 279
+DMWScraper:INFO - Jobs extracted: 13950 || Current page: 279/2471
+DMWScraper:INFO - Fetching jobs from page 280
+DMWScraper:INFO - Jobs extracted: 14000 || Current page: 280/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 281
+DMWScraper:INFO - Jobs extracted: 14050 || Current page: 281/2471
+DMWScraper:INFO - Fetching jobs from page 282
+DMWScraper:INFO - Jobs extracted: 14100 || Current page: 282/2471
+DMWScraper:INFO - Fetching jobs from page 283
+DMWScraper:INFO - Jobs extracted: 14150 || Current page: 283/2471
+DMWScraper:INFO - Fetching jobs from page 284
+DMWScraper:INFO - Jobs extracted: 14200 || Current page: 284/2471
+DMWScraper:INFO - Fetching jobs from page 285
+DMWScraper:INFO - Jobs extracted: 14250 || Current page: 285/2471
+DMWScraper:INFO - Fetching jobs from page 286
+DMWScraper:INFO - Jobs extracted: 14300 || Current page: 286/2471
+DMWScraper:INFO - Fetching jobs from page 287
+DMWScraper:INFO - Jobs extracted: 14350 || Current page: 287/2471
+DMWScraper:INFO - Fetching jobs from page 288
+DMWScraper:INFO - Jobs extracted: 14400 || Current page: 288/2471
+DMWScraper:INFO - Fetching jobs from page 289
+DMWScraper:INFO - Jobs extracted: 14450 || Current page: 289/2471
+DMWScraper:INFO - Fetching jobs from page 290
+DMWScraper:INFO - Jobs extracted: 14500 || Current page: 290/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 291
+DMWScraper:INFO - Jobs extracted: 14550 || Current page: 291/2471
+DMWScraper:INFO - Fetching jobs from page 292
+DMWScraper:INFO - Jobs extracted: 14600 || Current page: 292/2471
+DMWScraper:INFO - Fetching jobs from page 293
+DMWScraper:INFO - Jobs extracted: 14650 || Current page: 293/2471
+DMWScraper:INFO - Fetching jobs from page 294
+DMWScraper:INFO - Jobs extracted: 14700 || Current page: 294/2471
+DMWScraper:INFO - Fetching jobs from page 295
+DMWScraper:INFO - Jobs extracted: 14750 || Current page: 295/2471
+DMWScraper:INFO - Fetching jobs from page 296
+DMWScraper:INFO - Jobs extracted: 14800 || Current page: 296/2471
+DMWScraper:INFO - Fetching jobs from page 297
+DMWScraper:INFO - Jobs extracted: 14850 || Current page: 297/2471
+DMWScraper:INFO - Fetching jobs from page 298
+DMWScraper:INFO - Jobs extracted: 14900 || Current page: 298/2471
+DMWScraper:INFO - Fetching jobs from page 299
+DMWScraper:INFO - Jobs extracted: 14950 || Current page: 299/2471
+DMWScraper:INFO - Fetching jobs from page 300
+DMWScraper:INFO - Jobs extracted: 15000 || Current page: 300/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 301
+DMWScraper:INFO - Jobs extracted: 15050 || Current page: 301/2471
+DMWScraper:INFO - Fetching jobs from page 302
+DMWScraper:INFO - Jobs extracted: 15100 || Current page: 302/2471
+DMWScraper:INFO - Fetching jobs from page 303
+DMWScraper:INFO - Jobs extracted: 15150 || Current page: 303/2471
+DMWScraper:INFO - Fetching jobs from page 304
+DMWScraper:INFO - Jobs extracted: 15200 || Current page: 304/2471
+DMWScraper:INFO - Fetching jobs from page 305
+DMWScraper:INFO - Jobs extracted: 15250 || Current page: 305/2471
+DMWScraper:INFO - Fetching jobs from page 306
+DMWScraper:INFO - Jobs extracted: 15300 || Current page: 306/2471
+DMWScraper:INFO - Fetching jobs from page 307
+DMWScraper:INFO - Jobs extracted: 15350 || Current page: 307/2471
+DMWScraper:INFO - Fetching jobs from page 308
+DMWScraper:INFO - Jobs extracted: 15400 || Current page: 308/2471
+DMWScraper:INFO - Fetching jobs from page 309
+DMWScraper:INFO - Jobs extracted: 15450 || Current page: 309/2471
+DMWScraper:INFO - Fetching jobs from page 310
+DMWScraper:INFO - Jobs extracted: 15500 || Current page: 310/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 311
+DMWScraper:INFO - Jobs extracted: 15550 || Current page: 311/2471
+DMWScraper:INFO - Fetching jobs from page 312
+DMWScraper:INFO - Jobs extracted: 15600 || Current page: 312/2471
+DMWScraper:INFO - Fetching jobs from page 313
+DMWScraper:INFO - Jobs extracted: 15650 || Current page: 313/2471
+DMWScraper:INFO - Fetching jobs from page 314
+DMWScraper:INFO - Jobs extracted: 15700 || Current page: 314/2471
+DMWScraper:INFO - Fetching jobs from page 315
+DMWScraper:INFO - Jobs extracted: 15750 || Current page: 315/2471
+DMWScraper:INFO - Fetching jobs from page 316
+DMWScraper:INFO - Jobs extracted: 15800 || Current page: 316/2471
+DMWScraper:INFO - Fetching jobs from page 317
+DMWScraper:INFO - Jobs extracted: 15850 || Current page: 317/2471
+DMWScraper:INFO - Fetching jobs from page 318
+DMWScraper:INFO - Jobs extracted: 15900 || Current page: 318/2471
+DMWScraper:INFO - Fetching jobs from page 319
+DMWScraper:INFO - Jobs extracted: 15950 || Current page: 319/2471
+DMWScraper:INFO - Fetching jobs from page 320
+DMWScraper:INFO - Jobs extracted: 16000 || Current page: 320/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 321
+DMWScraper:INFO - Jobs extracted: 16050 || Current page: 321/2471
+DMWScraper:INFO - Fetching jobs from page 322
+DMWScraper:INFO - Jobs extracted: 16100 || Current page: 322/2471
+DMWScraper:INFO - Fetching jobs from page 323
+DMWScraper:INFO - Jobs extracted: 16150 || Current page: 323/2471
+DMWScraper:INFO - Fetching jobs from page 324
+DMWScraper:INFO - Jobs extracted: 16200 || Current page: 324/2471
+DMWScraper:INFO - Fetching jobs from page 325
+DMWScraper:INFO - Jobs extracted: 16250 || Current page: 325/2471
+DMWScraper:INFO - Fetching jobs from page 326
+DMWScraper:INFO - Jobs extracted: 16300 || Current page: 326/2471
+DMWScraper:INFO - Fetching jobs from page 327
+DMWScraper:INFO - Jobs extracted: 16350 || Current page: 327/2471
+DMWScraper:INFO - Fetching jobs from page 328
+DMWScraper:INFO - Jobs extracted: 16400 || Current page: 328/2471
+DMWScraper:INFO - Fetching jobs from page 329
+DMWScraper:INFO - Jobs extracted: 16450 || Current page: 329/2471
+DMWScraper:INFO - Fetching jobs from page 330
+DMWScraper:INFO - Jobs extracted: 16500 || Current page: 330/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 331
+DMWScraper:INFO - Jobs extracted: 16550 || Current page: 331/2471
+DMWScraper:INFO - Fetching jobs from page 332
+DMWScraper:INFO - Jobs extracted: 16600 || Current page: 332/2471
+DMWScraper:INFO - Fetching jobs from page 333
+DMWScraper:INFO - Jobs extracted: 16650 || Current page: 333/2471
+DMWScraper:INFO - Fetching jobs from page 334
+DMWScraper:INFO - Jobs extracted: 16700 || Current page: 334/2471
+DMWScraper:INFO - Fetching jobs from page 335
+DMWScraper:INFO - Jobs extracted: 16750 || Current page: 335/2471
+DMWScraper:INFO - Fetching jobs from page 336
+DMWScraper:INFO - Jobs extracted: 16800 || Current page: 336/2471
+DMWScraper:INFO - Fetching jobs from page 337
+DMWScraper:INFO - Jobs extracted: 16850 || Current page: 337/2471
+DMWScraper:INFO - Fetching jobs from page 338
+DMWScraper:INFO - Jobs extracted: 16900 || Current page: 338/2471
+DMWScraper:INFO - Fetching jobs from page 339
+DMWScraper:INFO - Jobs extracted: 16950 || Current page: 339/2471
+DMWScraper:INFO - Fetching jobs from page 340
+DMWScraper:INFO - Jobs extracted: 17000 || Current page: 340/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 341
+DMWScraper:INFO - Jobs extracted: 17050 || Current page: 341/2471
+DMWScraper:INFO - Fetching jobs from page 342
+DMWScraper:INFO - Jobs extracted: 17100 || Current page: 342/2471
+DMWScraper:INFO - Fetching jobs from page 343
+DMWScraper:INFO - Jobs extracted: 17150 || Current page: 343/2471
+DMWScraper:INFO - Fetching jobs from page 344
+DMWScraper:INFO - Jobs extracted: 17200 || Current page: 344/2471
+DMWScraper:INFO - Fetching jobs from page 345
+DMWScraper:INFO - Jobs extracted: 17250 || Current page: 345/2471
+DMWScraper:INFO - Fetching jobs from page 346
+DMWScraper:INFO - Jobs extracted: 17300 || Current page: 346/2471
+DMWScraper:INFO - Fetching jobs from page 347
+DMWScraper:INFO - Jobs extracted: 17350 || Current page: 347/2471
+DMWScraper:INFO - Fetching jobs from page 348
+DMWScraper:INFO - Jobs extracted: 17400 || Current page: 348/2471
+DMWScraper:INFO - Fetching jobs from page 349
+DMWScraper:INFO - Jobs extracted: 17450 || Current page: 349/2471
+DMWScraper:INFO - Fetching jobs from page 350
+DMWScraper:INFO - Jobs extracted: 17500 || Current page: 350/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 351
+DMWScraper:INFO - Jobs extracted: 17550 || Current page: 351/2471
+DMWScraper:INFO - Fetching jobs from page 352
+DMWScraper:INFO - Jobs extracted: 17600 || Current page: 352/2471
+DMWScraper:INFO - Fetching jobs from page 353
+DMWScraper:INFO - Jobs extracted: 17650 || Current page: 353/2471
+DMWScraper:INFO - Fetching jobs from page 354
+DMWScraper:INFO - Jobs extracted: 17700 || Current page: 354/2471
+DMWScraper:INFO - Fetching jobs from page 355
+DMWScraper:INFO - Jobs extracted: 17750 || Current page: 355/2471
+DMWScraper:INFO - Fetching jobs from page 356
+DMWScraper:INFO - Jobs extracted: 17800 || Current page: 356/2471
+DMWScraper:INFO - Fetching jobs from page 357
+DMWScraper:INFO - Jobs extracted: 17850 || Current page: 357/2471
+DMWScraper:INFO - Fetching jobs from page 358
+DMWScraper:INFO - Jobs extracted: 17900 || Current page: 358/2471
+DMWScraper:INFO - Fetching jobs from page 359
+DMWScraper:INFO - Jobs extracted: 17950 || Current page: 359/2471
+DMWScraper:INFO - Fetching jobs from page 360
+DMWScraper:INFO - Jobs extracted: 18000 || Current page: 360/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 361
+DMWScraper:INFO - Jobs extracted: 18050 || Current page: 361/2471
+DMWScraper:INFO - Fetching jobs from page 362
+DMWScraper:INFO - Jobs extracted: 18100 || Current page: 362/2471
+DMWScraper:INFO - Fetching jobs from page 363
+DMWScraper:INFO - Jobs extracted: 18150 || Current page: 363/2471
+DMWScraper:INFO - Fetching jobs from page 364
+DMWScraper:INFO - Jobs extracted: 18200 || Current page: 364/2471
+DMWScraper:INFO - Fetching jobs from page 365
+DMWScraper:INFO - Jobs extracted: 18250 || Current page: 365/2471
+DMWScraper:INFO - Fetching jobs from page 366
+DMWScraper:INFO - Jobs extracted: 18300 || Current page: 366/2471
+DMWScraper:INFO - Fetching jobs from page 367
+DMWScraper:INFO - Jobs extracted: 18350 || Current page: 367/2471
+DMWScraper:INFO - Fetching jobs from page 368
+DMWScraper:INFO - Jobs extracted: 18400 || Current page: 368/2471
+DMWScraper:INFO - Fetching jobs from page 369
+DMWScraper:INFO - Jobs extracted: 18450 || Current page: 369/2471
+DMWScraper:INFO - Fetching jobs from page 370
+DMWScraper:INFO - Jobs extracted: 18500 || Current page: 370/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 371
+DMWScraper:INFO - Jobs extracted: 18550 || Current page: 371/2471
+DMWScraper:INFO - Fetching jobs from page 372
+DMWScraper:INFO - Jobs extracted: 18600 || Current page: 372/2471
+DMWScraper:INFO - Fetching jobs from page 373
+DMWScraper:INFO - Jobs extracted: 18650 || Current page: 373/2471
+DMWScraper:INFO - Fetching jobs from page 374
+DMWScraper:INFO - Jobs extracted: 18700 || Current page: 374/2471
+DMWScraper:INFO - Fetching jobs from page 375
+DMWScraper:INFO - Jobs extracted: 18750 || Current page: 375/2471
+DMWScraper:INFO - Fetching jobs from page 376
+DMWScraper:INFO - Jobs extracted: 18800 || Current page: 376/2471
+DMWScraper:INFO - Fetching jobs from page 377
+DMWScraper:INFO - Jobs extracted: 18850 || Current page: 377/2471
+DMWScraper:INFO - Fetching jobs from page 378
+DMWScraper:INFO - Jobs extracted: 18900 || Current page: 378/2471
+DMWScraper:INFO - Fetching jobs from page 379
+DMWScraper:INFO - Jobs extracted: 18950 || Current page: 379/2471
+DMWScraper:INFO - Fetching jobs from page 380
+DMWScraper:INFO - Jobs extracted: 19000 || Current page: 380/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 381
+DMWScraper:INFO - Jobs extracted: 19050 || Current page: 381/2471
+DMWScraper:INFO - Fetching jobs from page 382
+DMWScraper:INFO - Jobs extracted: 19100 || Current page: 382/2471
+DMWScraper:INFO - Fetching jobs from page 383
+DMWScraper:INFO - Jobs extracted: 19150 || Current page: 383/2471
+DMWScraper:INFO - Fetching jobs from page 384
+DMWScraper:INFO - Jobs extracted: 19200 || Current page: 384/2471
+DMWScraper:INFO - Fetching jobs from page 385
+DMWScraper:INFO - Jobs extracted: 19250 || Current page: 385/2471
+DMWScraper:INFO - Fetching jobs from page 386
+DMWScraper:INFO - Jobs extracted: 19300 || Current page: 386/2471
+DMWScraper:INFO - Fetching jobs from page 387
+DMWScraper:INFO - Jobs extracted: 19350 || Current page: 387/2471
+DMWScraper:INFO - Fetching jobs from page 388
+DMWScraper:INFO - Jobs extracted: 19400 || Current page: 388/2471
+DMWScraper:INFO - Fetching jobs from page 389
+DMWScraper:INFO - Jobs extracted: 19450 || Current page: 389/2471
+DMWScraper:INFO - Fetching jobs from page 390
+DMWScraper:INFO - Jobs extracted: 19500 || Current page: 390/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 391
+DMWScraper:INFO - Jobs extracted: 19550 || Current page: 391/2471
+DMWScraper:INFO - Fetching jobs from page 392
+DMWScraper:INFO - Jobs extracted: 19600 || Current page: 392/2471
+DMWScraper:INFO - Fetching jobs from page 393
+DMWScraper:INFO - Jobs extracted: 19650 || Current page: 393/2471
+DMWScraper:INFO - Fetching jobs from page 394
+DMWScraper:INFO - Jobs extracted: 19700 || Current page: 394/2471
+DMWScraper:INFO - Fetching jobs from page 395
+DMWScraper:INFO - Jobs extracted: 19750 || Current page: 395/2471
+DMWScraper:INFO - Fetching jobs from page 396
+DMWScraper:INFO - Jobs extracted: 19800 || Current page: 396/2471
+DMWScraper:INFO - Fetching jobs from page 397
+DMWScraper:INFO - Jobs extracted: 19850 || Current page: 397/2471
+DMWScraper:INFO - Fetching jobs from page 398
+DMWScraper:INFO - Jobs extracted: 19900 || Current page: 398/2471
+DMWScraper:INFO - Fetching jobs from page 399
+DMWScraper:INFO - Jobs extracted: 19950 || Current page: 399/2471
+DMWScraper:INFO - Fetching jobs from page 400
+DMWScraper:INFO - Jobs extracted: 20000 || Current page: 400/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 401
+DMWScraper:INFO - Jobs extracted: 20050 || Current page: 401/2471
+DMWScraper:INFO - Fetching jobs from page 402
+DMWScraper:INFO - Jobs extracted: 20100 || Current page: 402/2471
+DMWScraper:INFO - Fetching jobs from page 403
+DMWScraper:INFO - Jobs extracted: 20150 || Current page: 403/2471
+DMWScraper:INFO - Fetching jobs from page 404
+DMWScraper:INFO - Jobs extracted: 20200 || Current page: 404/2471
+DMWScraper:INFO - Fetching jobs from page 405
+DMWScraper:INFO - Jobs extracted: 20250 || Current page: 405/2471
+DMWScraper:INFO - Fetching jobs from page 406
+DMWScraper:INFO - Jobs extracted: 20300 || Current page: 406/2471
+DMWScraper:INFO - Fetching jobs from page 407
+DMWScraper:INFO - Jobs extracted: 20350 || Current page: 407/2471
+DMWScraper:INFO - Fetching jobs from page 408
+DMWScraper:INFO - Jobs extracted: 20400 || Current page: 408/2471
+DMWScraper:INFO - Fetching jobs from page 409
+DMWScraper:INFO - Jobs extracted: 20450 || Current page: 409/2471
+DMWScraper:INFO - Fetching jobs from page 410
+DMWScraper:INFO - Jobs extracted: 20500 || Current page: 410/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 411
+DMWScraper:INFO - Jobs extracted: 20550 || Current page: 411/2471
+DMWScraper:INFO - Fetching jobs from page 412
+DMWScraper:INFO - Jobs extracted: 20600 || Current page: 412/2471
+DMWScraper:INFO - Fetching jobs from page 413
+DMWScraper:INFO - Jobs extracted: 20650 || Current page: 413/2471
+DMWScraper:INFO - Fetching jobs from page 414
+DMWScraper:INFO - Jobs extracted: 20700 || Current page: 414/2471
+DMWScraper:INFO - Fetching jobs from page 415
+DMWScraper:INFO - Jobs extracted: 20750 || Current page: 415/2471
+DMWScraper:INFO - Fetching jobs from page 416
+DMWScraper:INFO - Jobs extracted: 20800 || Current page: 416/2471
+DMWScraper:INFO - Fetching jobs from page 417
+DMWScraper:INFO - Jobs extracted: 20850 || Current page: 417/2471
+DMWScraper:INFO - Fetching jobs from page 418
+DMWScraper:INFO - Jobs extracted: 20900 || Current page: 418/2471
+DMWScraper:INFO - Fetching jobs from page 419
+DMWScraper:INFO - Jobs extracted: 20950 || Current page: 419/2471
+DMWScraper:INFO - Fetching jobs from page 420
+DMWScraper:INFO - Jobs extracted: 21000 || Current page: 420/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 421
+DMWScraper:INFO - Jobs extracted: 21050 || Current page: 421/2471
+DMWScraper:INFO - Fetching jobs from page 422
+DMWScraper:INFO - Jobs extracted: 21100 || Current page: 422/2471
+DMWScraper:INFO - Fetching jobs from page 423
+DMWScraper:INFO - Jobs extracted: 21150 || Current page: 423/2471
+DMWScraper:INFO - Fetching jobs from page 424
+DMWScraper:INFO - Jobs extracted: 21200 || Current page: 424/2471
+DMWScraper:INFO - Fetching jobs from page 425
+DMWScraper:INFO - Jobs extracted: 21250 || Current page: 425/2471
+DMWScraper:INFO - Fetching jobs from page 426
+DMWScraper:INFO - Jobs extracted: 21300 || Current page: 426/2471
+DMWScraper:INFO - Fetching jobs from page 427
+DMWScraper:INFO - Jobs extracted: 21350 || Current page: 427/2471
+DMWScraper:INFO - Fetching jobs from page 428
+DMWScraper:INFO - Jobs extracted: 21400 || Current page: 428/2471
+DMWScraper:INFO - Fetching jobs from page 429
+DMWScraper:INFO - Jobs extracted: 21450 || Current page: 429/2471
+DMWScraper:INFO - Fetching jobs from page 430
+DMWScraper:INFO - Jobs extracted: 21500 || Current page: 430/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 431
+DMWScraper:INFO - Jobs extracted: 21550 || Current page: 431/2471
+DMWScraper:INFO - Fetching jobs from page 432
+DMWScraper:INFO - Jobs extracted: 21600 || Current page: 432/2471
+DMWScraper:INFO - Fetching jobs from page 433
+DMWScraper:INFO - Jobs extracted: 21650 || Current page: 433/2471
+DMWScraper:INFO - Fetching jobs from page 434
+DMWScraper:INFO - Jobs extracted: 21700 || Current page: 434/2471
+DMWScraper:INFO - Fetching jobs from page 435
+DMWScraper:INFO - Jobs extracted: 21750 || Current page: 435/2471
+DMWScraper:INFO - Fetching jobs from page 436
+DMWScraper:INFO - Jobs extracted: 21800 || Current page: 436/2471
+DMWScraper:INFO - Fetching jobs from page 437
+DMWScraper:INFO - Jobs extracted: 21850 || Current page: 437/2471
+DMWScraper:INFO - Fetching jobs from page 438
+DMWScraper:INFO - Jobs extracted: 21900 || Current page: 438/2471
+DMWScraper:INFO - Fetching jobs from page 439
+DMWScraper:INFO - Jobs extracted: 21950 || Current page: 439/2471
+DMWScraper:INFO - Fetching jobs from page 440
+DMWScraper:INFO - Jobs extracted: 22000 || Current page: 440/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 441
+DMWScraper:INFO - Jobs extracted: 22050 || Current page: 441/2471
+DMWScraper:INFO - Fetching jobs from page 442
+DMWScraper:INFO - Jobs extracted: 22100 || Current page: 442/2471
+DMWScraper:INFO - Fetching jobs from page 443
+DMWScraper:INFO - Jobs extracted: 22150 || Current page: 443/2471
+DMWScraper:INFO - Fetching jobs from page 444
+DMWScraper:INFO - Jobs extracted: 22200 || Current page: 444/2471
+DMWScraper:INFO - Fetching jobs from page 445
+DMWScraper:INFO - Jobs extracted: 22250 || Current page: 445/2471
+DMWScraper:INFO - Fetching jobs from page 446
+DMWScraper:INFO - Jobs extracted: 22300 || Current page: 446/2471
+DMWScraper:INFO - Fetching jobs from page 447
+DMWScraper:INFO - Jobs extracted: 22350 || Current page: 447/2471
+DMWScraper:INFO - Fetching jobs from page 448
+DMWScraper:INFO - Jobs extracted: 22400 || Current page: 448/2471
+DMWScraper:INFO - Fetching jobs from page 449
+DMWScraper:INFO - Jobs extracted: 22450 || Current page: 449/2471
+DMWScraper:INFO - Fetching jobs from page 450
+DMWScraper:INFO - Jobs extracted: 22500 || Current page: 450/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 451
+DMWScraper:INFO - Jobs extracted: 22550 || Current page: 451/2471
+DMWScraper:INFO - Fetching jobs from page 452
+DMWScraper:INFO - Jobs extracted: 22600 || Current page: 452/2471
+DMWScraper:INFO - Fetching jobs from page 453
+DMWScraper:INFO - Jobs extracted: 22650 || Current page: 453/2471
+DMWScraper:INFO - Fetching jobs from page 454
+DMWScraper:INFO - Jobs extracted: 22700 || Current page: 454/2471
+DMWScraper:INFO - Fetching jobs from page 455
+DMWScraper:INFO - Jobs extracted: 22750 || Current page: 455/2471
+DMWScraper:INFO - Fetching jobs from page 456
+DMWScraper:INFO - Jobs extracted: 22800 || Current page: 456/2471
+DMWScraper:INFO - Fetching jobs from page 457
+DMWScraper:INFO - Jobs extracted: 22850 || Current page: 457/2471
+DMWScraper:INFO - Fetching jobs from page 458
+DMWScraper:INFO - Jobs extracted: 22900 || Current page: 458/2471
+DMWScraper:INFO - Fetching jobs from page 459
+DMWScraper:INFO - Jobs extracted: 22950 || Current page: 459/2471
+DMWScraper:INFO - Fetching jobs from page 460
+DMWScraper:INFO - Jobs extracted: 23000 || Current page: 460/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 461
+DMWScraper:INFO - Jobs extracted: 23050 || Current page: 461/2471
+DMWScraper:INFO - Fetching jobs from page 462
+DMWScraper:INFO - Jobs extracted: 23100 || Current page: 462/2471
+DMWScraper:INFO - Fetching jobs from page 463
+DMWScraper:INFO - Jobs extracted: 23150 || Current page: 463/2471
+DMWScraper:INFO - Fetching jobs from page 464
+DMWScraper:INFO - Jobs extracted: 23200 || Current page: 464/2471
+DMWScraper:INFO - Fetching jobs from page 465
+DMWScraper:INFO - Jobs extracted: 23250 || Current page: 465/2471
+DMWScraper:INFO - Fetching jobs from page 466
+DMWScraper:INFO - Jobs extracted: 23300 || Current page: 466/2471
+DMWScraper:INFO - Fetching jobs from page 467
+DMWScraper:INFO - Jobs extracted: 23350 || Current page: 467/2471
+DMWScraper:INFO - Fetching jobs from page 468
+DMWScraper:INFO - Jobs extracted: 23400 || Current page: 468/2471
+DMWScraper:INFO - Fetching jobs from page 469
+DMWScraper:INFO - Jobs extracted: 23450 || Current page: 469/2471
+DMWScraper:INFO - Fetching jobs from page 470
+DMWScraper:INFO - Jobs extracted: 23500 || Current page: 470/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 471
+DMWScraper:INFO - Jobs extracted: 23550 || Current page: 471/2471
+DMWScraper:INFO - Fetching jobs from page 472
+DMWScraper:INFO - Jobs extracted: 23600 || Current page: 472/2471
+DMWScraper:INFO - Fetching jobs from page 473
+DMWScraper:INFO - Jobs extracted: 23650 || Current page: 473/2471
+DMWScraper:INFO - Fetching jobs from page 474
+DMWScraper:INFO - Jobs extracted: 23700 || Current page: 474/2471
+DMWScraper:INFO - Fetching jobs from page 475
+DMWScraper:INFO - Jobs extracted: 23750 || Current page: 475/2471
+DMWScraper:INFO - Fetching jobs from page 476
+DMWScraper:INFO - Jobs extracted: 23800 || Current page: 476/2471
+DMWScraper:INFO - Fetching jobs from page 477
+DMWScraper:INFO - Jobs extracted: 23850 || Current page: 477/2471
+DMWScraper:INFO - Fetching jobs from page 478
+DMWScraper:INFO - Jobs extracted: 23900 || Current page: 478/2471
+DMWScraper:INFO - Fetching jobs from page 479
+DMWScraper:INFO - Jobs extracted: 23950 || Current page: 479/2471
+DMWScraper:INFO - Fetching jobs from page 480
+DMWScraper:INFO - Jobs extracted: 24000 || Current page: 480/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 481
+DMWScraper:INFO - Jobs extracted: 24050 || Current page: 481/2471
+DMWScraper:INFO - Fetching jobs from page 482
+DMWScraper:INFO - Jobs extracted: 24100 || Current page: 482/2471
+DMWScraper:INFO - Fetching jobs from page 483
+DMWScraper:INFO - Jobs extracted: 24150 || Current page: 483/2471
+DMWScraper:INFO - Fetching jobs from page 484
+DMWScraper:INFO - Jobs extracted: 24200 || Current page: 484/2471
+DMWScraper:INFO - Fetching jobs from page 485
+DMWScraper:INFO - Jobs extracted: 24250 || Current page: 485/2471
+DMWScraper:INFO - Fetching jobs from page 486
+DMWScraper:INFO - Jobs extracted: 24300 || Current page: 486/2471
+DMWScraper:INFO - Fetching jobs from page 487
+DMWScraper:INFO - Jobs extracted: 24350 || Current page: 487/2471
+DMWScraper:INFO - Fetching jobs from page 488
+DMWScraper:INFO - Jobs extracted: 24400 || Current page: 488/2471
+DMWScraper:INFO - Fetching jobs from page 489
+DMWScraper:INFO - Jobs extracted: 24450 || Current page: 489/2471
+DMWScraper:INFO - Fetching jobs from page 490
+DMWScraper:INFO - Jobs extracted: 24500 || Current page: 490/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 491
+DMWScraper:INFO - Jobs extracted: 24550 || Current page: 491/2471
+DMWScraper:INFO - Fetching jobs from page 492
+DMWScraper:INFO - Jobs extracted: 24600 || Current page: 492/2471
+DMWScraper:INFO - Fetching jobs from page 493
+DMWScraper:INFO - Jobs extracted: 24650 || Current page: 493/2471
+DMWScraper:INFO - Fetching jobs from page 494
+DMWScraper:INFO - Jobs extracted: 24700 || Current page: 494/2471
+DMWScraper:INFO - Fetching jobs from page 495
+DMWScraper:INFO - Jobs extracted: 24750 || Current page: 495/2471
+DMWScraper:INFO - Fetching jobs from page 496
+DMWScraper:INFO - Jobs extracted: 24800 || Current page: 496/2471
+DMWScraper:INFO - Fetching jobs from page 497
+DMWScraper:INFO - Jobs extracted: 24850 || Current page: 497/2471
+DMWScraper:INFO - Fetching jobs from page 498
+DMWScraper:INFO - Jobs extracted: 24900 || Current page: 498/2471
+DMWScraper:INFO - Fetching jobs from page 499
+DMWScraper:INFO - Jobs extracted: 24950 || Current page: 499/2471
+DMWScraper:INFO - Fetching jobs from page 500
+DMWScraper:INFO - Jobs extracted: 25000 || Current page: 500/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 501
+DMWScraper:INFO - Jobs extracted: 25050 || Current page: 501/2471
+DMWScraper:INFO - Fetching jobs from page 502
+DMWScraper:INFO - Jobs extracted: 25100 || Current page: 502/2471
+DMWScraper:INFO - Fetching jobs from page 503
+DMWScraper:INFO - Jobs extracted: 25150 || Current page: 503/2471
+DMWScraper:INFO - Fetching jobs from page 504
+DMWScraper:INFO - Jobs extracted: 25200 || Current page: 504/2471
+DMWScraper:INFO - Fetching jobs from page 505
+DMWScraper:INFO - Jobs extracted: 25250 || Current page: 505/2471
+DMWScraper:INFO - Fetching jobs from page 506
+DMWScraper:INFO - Jobs extracted: 25300 || Current page: 506/2471
+DMWScraper:INFO - Fetching jobs from page 507
+DMWScraper:INFO - Jobs extracted: 25350 || Current page: 507/2471
+DMWScraper:INFO - Fetching jobs from page 508
+DMWScraper:INFO - Jobs extracted: 25400 || Current page: 508/2471
+DMWScraper:INFO - Fetching jobs from page 509
+DMWScraper:INFO - Jobs extracted: 25450 || Current page: 509/2471
+DMWScraper:INFO - Fetching jobs from page 510
+DMWScraper:INFO - Jobs extracted: 25500 || Current page: 510/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 511
+DMWScraper:INFO - Jobs extracted: 25550 || Current page: 511/2471
+DMWScraper:INFO - Fetching jobs from page 512
+DMWScraper:INFO - Jobs extracted: 25600 || Current page: 512/2471
+DMWScraper:INFO - Fetching jobs from page 513
+DMWScraper:INFO - Jobs extracted: 25650 || Current page: 513/2471
+DMWScraper:INFO - Fetching jobs from page 514
+DMWScraper:INFO - Jobs extracted: 25700 || Current page: 514/2471
+DMWScraper:INFO - Fetching jobs from page 515
+DMWScraper:INFO - Jobs extracted: 25750 || Current page: 515/2471
+DMWScraper:INFO - Fetching jobs from page 516
+DMWScraper:INFO - Jobs extracted: 25800 || Current page: 516/2471
+DMWScraper:INFO - Fetching jobs from page 517
+DMWScraper:INFO - Jobs extracted: 25850 || Current page: 517/2471
+DMWScraper:INFO - Fetching jobs from page 518
+DMWScraper:INFO - Jobs extracted: 25900 || Current page: 518/2471
+DMWScraper:INFO - Fetching jobs from page 519
+DMWScraper:INFO - Jobs extracted: 25950 || Current page: 519/2471
+DMWScraper:INFO - Fetching jobs from page 520
+DMWScraper:INFO - Jobs extracted: 26000 || Current page: 520/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 521
+DMWScraper:INFO - Jobs extracted: 26050 || Current page: 521/2471
+DMWScraper:INFO - Fetching jobs from page 522
+DMWScraper:INFO - Jobs extracted: 26100 || Current page: 522/2471
+DMWScraper:INFO - Fetching jobs from page 523
+DMWScraper:INFO - Jobs extracted: 26150 || Current page: 523/2471
+DMWScraper:INFO - Fetching jobs from page 524
+DMWScraper:INFO - Jobs extracted: 26200 || Current page: 524/2471
+DMWScraper:INFO - Fetching jobs from page 525
+DMWScraper:INFO - Jobs extracted: 26250 || Current page: 525/2471
+DMWScraper:INFO - Fetching jobs from page 526
+DMWScraper:INFO - Jobs extracted: 26300 || Current page: 526/2471
+DMWScraper:INFO - Fetching jobs from page 527
+DMWScraper:INFO - Jobs extracted: 26350 || Current page: 527/2471
+DMWScraper:INFO - Fetching jobs from page 528
+DMWScraper:INFO - Jobs extracted: 26400 || Current page: 528/2471
+DMWScraper:INFO - Fetching jobs from page 529
+DMWScraper:INFO - Jobs extracted: 26450 || Current page: 529/2471
+DMWScraper:INFO - Fetching jobs from page 530
+DMWScraper:INFO - Jobs extracted: 26500 || Current page: 530/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 531
+DMWScraper:INFO - Jobs extracted: 26550 || Current page: 531/2471
+DMWScraper:INFO - Fetching jobs from page 532
+DMWScraper:INFO - Jobs extracted: 26600 || Current page: 532/2471
+DMWScraper:INFO - Fetching jobs from page 533
+DMWScraper:INFO - Jobs extracted: 26650 || Current page: 533/2471
+DMWScraper:INFO - Fetching jobs from page 534
+DMWScraper:INFO - Jobs extracted: 26700 || Current page: 534/2471
+DMWScraper:INFO - Fetching jobs from page 535
+DMWScraper:INFO - Jobs extracted: 26750 || Current page: 535/2471
+DMWScraper:INFO - Fetching jobs from page 536
+DMWScraper:INFO - Jobs extracted: 26800 || Current page: 536/2471
+DMWScraper:INFO - Fetching jobs from page 537
+DMWScraper:INFO - Jobs extracted: 26850 || Current page: 537/2471
+DMWScraper:INFO - Fetching jobs from page 538
+DMWScraper:INFO - Jobs extracted: 26900 || Current page: 538/2471
+DMWScraper:INFO - Fetching jobs from page 539
+DMWScraper:INFO - Jobs extracted: 26950 || Current page: 539/2471
+DMWScraper:INFO - Fetching jobs from page 540
+DMWScraper:INFO - Jobs extracted: 27000 || Current page: 540/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 541
+DMWScraper:INFO - Jobs extracted: 27050 || Current page: 541/2471
+DMWScraper:INFO - Fetching jobs from page 542
+DMWScraper:INFO - Jobs extracted: 27100 || Current page: 542/2471
+DMWScraper:INFO - Fetching jobs from page 543
+DMWScraper:INFO - Jobs extracted: 27150 || Current page: 543/2471
+DMWScraper:INFO - Fetching jobs from page 544
+DMWScraper:INFO - Jobs extracted: 27200 || Current page: 544/2471
+DMWScraper:INFO - Fetching jobs from page 545
+DMWScraper:INFO - Jobs extracted: 27250 || Current page: 545/2471
+DMWScraper:INFO - Fetching jobs from page 546
+DMWScraper:INFO - Jobs extracted: 27300 || Current page: 546/2471
+DMWScraper:INFO - Fetching jobs from page 547
+DMWScraper:INFO - Jobs extracted: 27350 || Current page: 547/2471
+DMWScraper:INFO - Fetching jobs from page 548
+DMWScraper:INFO - Jobs extracted: 27400 || Current page: 548/2471
+DMWScraper:INFO - Fetching jobs from page 549
+DMWScraper:INFO - Jobs extracted: 27450 || Current page: 549/2471
+DMWScraper:INFO - Fetching jobs from page 550
+DMWScraper:INFO - Jobs extracted: 27500 || Current page: 550/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 551
+DMWScraper:INFO - Jobs extracted: 27550 || Current page: 551/2471
+DMWScraper:INFO - Fetching jobs from page 552
+DMWScraper:INFO - Jobs extracted: 27600 || Current page: 552/2471
+DMWScraper:INFO - Fetching jobs from page 553
+DMWScraper:INFO - Jobs extracted: 27650 || Current page: 553/2471
+DMWScraper:INFO - Fetching jobs from page 554
+DMWScraper:INFO - Jobs extracted: 27700 || Current page: 554/2471
+DMWScraper:INFO - Fetching jobs from page 555
+DMWScraper:INFO - Jobs extracted: 27750 || Current page: 555/2471
+DMWScraper:INFO - Fetching jobs from page 556
+DMWScraper:INFO - Jobs extracted: 27800 || Current page: 556/2471
+DMWScraper:INFO - Fetching jobs from page 557
+DMWScraper:INFO - Jobs extracted: 27850 || Current page: 557/2471
+DMWScraper:INFO - Fetching jobs from page 558
+DMWScraper:INFO - Jobs extracted: 27900 || Current page: 558/2471
+DMWScraper:INFO - Fetching jobs from page 559
+DMWScraper:INFO - Jobs extracted: 27950 || Current page: 559/2471
+DMWScraper:INFO - Fetching jobs from page 560
+DMWScraper:INFO - Jobs extracted: 28000 || Current page: 560/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 561
+DMWScraper:INFO - Jobs extracted: 28050 || Current page: 561/2471
+DMWScraper:INFO - Fetching jobs from page 562
+DMWScraper:INFO - Jobs extracted: 28100 || Current page: 562/2471
+DMWScraper:INFO - Fetching jobs from page 563
+DMWScraper:INFO - Jobs extracted: 28150 || Current page: 563/2471
+DMWScraper:INFO - Fetching jobs from page 564
+DMWScraper:INFO - Jobs extracted: 28200 || Current page: 564/2471
+DMWScraper:INFO - Fetching jobs from page 565
+DMWScraper:INFO - Jobs extracted: 28250 || Current page: 565/2471
+DMWScraper:INFO - Fetching jobs from page 566
+DMWScraper:INFO - Jobs extracted: 28300 || Current page: 566/2471
+DMWScraper:INFO - Fetching jobs from page 567
+DMWScraper:INFO - Jobs extracted: 28350 || Current page: 567/2471
+DMWScraper:INFO - Fetching jobs from page 568
+DMWScraper:INFO - Jobs extracted: 28400 || Current page: 568/2471
+DMWScraper:INFO - Fetching jobs from page 569
+DMWScraper:INFO - Jobs extracted: 28450 || Current page: 569/2471
+DMWScraper:INFO - Fetching jobs from page 570
+DMWScraper:INFO - Jobs extracted: 28500 || Current page: 570/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 571
+DMWScraper:INFO - Jobs extracted: 28550 || Current page: 571/2471
+DMWScraper:INFO - Fetching jobs from page 572
+DMWScraper:INFO - Jobs extracted: 28600 || Current page: 572/2471
+DMWScraper:INFO - Fetching jobs from page 573
+DMWScraper:INFO - Jobs extracted: 28650 || Current page: 573/2471
+DMWScraper:INFO - Fetching jobs from page 574
+DMWScraper:INFO - Jobs extracted: 28700 || Current page: 574/2471
+DMWScraper:INFO - Fetching jobs from page 575
+DMWScraper:INFO - Jobs extracted: 28750 || Current page: 575/2471
+DMWScraper:INFO - Fetching jobs from page 576
+DMWScraper:INFO - Jobs extracted: 28800 || Current page: 576/2471
+DMWScraper:INFO - Fetching jobs from page 577
+DMWScraper:INFO - Jobs extracted: 28850 || Current page: 577/2471
+DMWScraper:INFO - Fetching jobs from page 578
+DMWScraper:INFO - Jobs extracted: 28900 || Current page: 578/2471
+DMWScraper:INFO - Fetching jobs from page 579
+DMWScraper:INFO - Jobs extracted: 28950 || Current page: 579/2471
+DMWScraper:INFO - Fetching jobs from page 580
+DMWScraper:INFO - Jobs extracted: 29000 || Current page: 580/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 581
+DMWScraper:INFO - Jobs extracted: 29050 || Current page: 581/2471
+DMWScraper:INFO - Fetching jobs from page 582
+DMWScraper:INFO - Jobs extracted: 29100 || Current page: 582/2471
+DMWScraper:INFO - Fetching jobs from page 583
+DMWScraper:INFO - Jobs extracted: 29150 || Current page: 583/2471
+DMWScraper:INFO - Fetching jobs from page 584
+DMWScraper:INFO - Jobs extracted: 29200 || Current page: 584/2471
+DMWScraper:INFO - Fetching jobs from page 585
+DMWScraper:INFO - Jobs extracted: 29250 || Current page: 585/2471
+DMWScraper:INFO - Fetching jobs from page 586
+DMWScraper:INFO - Jobs extracted: 29300 || Current page: 586/2471
+DMWScraper:INFO - Fetching jobs from page 587
+DMWScraper:INFO - Jobs extracted: 29350 || Current page: 587/2471
+DMWScraper:INFO - Fetching jobs from page 588
+DMWScraper:INFO - Jobs extracted: 29400 || Current page: 588/2471
+DMWScraper:INFO - Fetching jobs from page 589
+DMWScraper:INFO - Jobs extracted: 29450 || Current page: 589/2471
+DMWScraper:INFO - Fetching jobs from page 590
+DMWScraper:INFO - Jobs extracted: 29500 || Current page: 590/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 591
+DMWScraper:INFO - Jobs extracted: 29550 || Current page: 591/2471
+DMWScraper:INFO - Fetching jobs from page 592
+DMWScraper:INFO - Jobs extracted: 29600 || Current page: 592/2471
+DMWScraper:INFO - Fetching jobs from page 593
+DMWScraper:INFO - Jobs extracted: 29650 || Current page: 593/2471
+DMWScraper:INFO - Fetching jobs from page 594
+DMWScraper:INFO - Jobs extracted: 29700 || Current page: 594/2471
+DMWScraper:INFO - Fetching jobs from page 595
+DMWScraper:INFO - Jobs extracted: 29750 || Current page: 595/2471
+DMWScraper:INFO - Fetching jobs from page 596
+DMWScraper:INFO - Jobs extracted: 29800 || Current page: 596/2471
+DMWScraper:INFO - Fetching jobs from page 597
+DMWScraper:INFO - Jobs extracted: 29850 || Current page: 597/2471
+DMWScraper:INFO - Fetching jobs from page 598
+DMWScraper:INFO - Jobs extracted: 29900 || Current page: 598/2471
+DMWScraper:INFO - Fetching jobs from page 599
+DMWScraper:INFO - Jobs extracted: 29950 || Current page: 599/2471
+DMWScraper:INFO - Fetching jobs from page 600
+DMWScraper:INFO - Jobs extracted: 30000 || Current page: 600/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 601
+DMWScraper:INFO - Jobs extracted: 30050 || Current page: 601/2471
+DMWScraper:INFO - Fetching jobs from page 602
+DMWScraper:INFO - Jobs extracted: 30100 || Current page: 602/2471
+DMWScraper:INFO - Fetching jobs from page 603
+DMWScraper:INFO - Jobs extracted: 30150 || Current page: 603/2471
+DMWScraper:INFO - Fetching jobs from page 604
+DMWScraper:INFO - Jobs extracted: 30200 || Current page: 604/2471
+DMWScraper:INFO - Fetching jobs from page 605
+DMWScraper:INFO - Jobs extracted: 30250 || Current page: 605/2471
+DMWScraper:INFO - Fetching jobs from page 606
+DMWScraper:INFO - Jobs extracted: 30300 || Current page: 606/2471
+DMWScraper:INFO - Fetching jobs from page 607
+DMWScraper:INFO - Jobs extracted: 30350 || Current page: 607/2471
+DMWScraper:INFO - Fetching jobs from page 608
+DMWScraper:INFO - Jobs extracted: 30400 || Current page: 608/2471
+DMWScraper:INFO - Fetching jobs from page 609
+DMWScraper:INFO - Jobs extracted: 30450 || Current page: 609/2471
+DMWScraper:INFO - Fetching jobs from page 610
+DMWScraper:INFO - Jobs extracted: 30500 || Current page: 610/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 611
+DMWScraper:INFO - Jobs extracted: 30550 || Current page: 611/2471
+DMWScraper:INFO - Fetching jobs from page 612
+DMWScraper:INFO - Jobs extracted: 30600 || Current page: 612/2471
+DMWScraper:INFO - Fetching jobs from page 613
+DMWScraper:INFO - Jobs extracted: 30650 || Current page: 613/2471
+DMWScraper:INFO - Fetching jobs from page 614
+DMWScraper:INFO - Jobs extracted: 30700 || Current page: 614/2471
+DMWScraper:INFO - Fetching jobs from page 615
+DMWScraper:INFO - Jobs extracted: 30750 || Current page: 615/2471
+DMWScraper:INFO - Fetching jobs from page 616
+DMWScraper:INFO - Jobs extracted: 30800 || Current page: 616/2471
+DMWScraper:INFO - Fetching jobs from page 617
+DMWScraper:INFO - Jobs extracted: 30850 || Current page: 617/2471
+DMWScraper:INFO - Fetching jobs from page 618
+DMWScraper:INFO - Jobs extracted: 30900 || Current page: 618/2471
+DMWScraper:INFO - Fetching jobs from page 619
+DMWScraper:INFO - Jobs extracted: 30950 || Current page: 619/2471
+DMWScraper:INFO - Fetching jobs from page 620
+DMWScraper:INFO - Jobs extracted: 31000 || Current page: 620/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 621
+DMWScraper:INFO - Jobs extracted: 31050 || Current page: 621/2471
+DMWScraper:INFO - Fetching jobs from page 622
+DMWScraper:INFO - Jobs extracted: 31100 || Current page: 622/2471
+DMWScraper:INFO - Fetching jobs from page 623
+DMWScraper:INFO - Jobs extracted: 31150 || Current page: 623/2471
+DMWScraper:INFO - Fetching jobs from page 624
+DMWScraper:INFO - Jobs extracted: 31200 || Current page: 624/2471
+DMWScraper:INFO - Fetching jobs from page 625
+DMWScraper:INFO - Jobs extracted: 31250 || Current page: 625/2471
+DMWScraper:INFO - Fetching jobs from page 626
+DMWScraper:INFO - Jobs extracted: 31300 || Current page: 626/2471
+DMWScraper:INFO - Fetching jobs from page 627
+DMWScraper:INFO - Jobs extracted: 31350 || Current page: 627/2471
+DMWScraper:INFO - Fetching jobs from page 628
+DMWScraper:INFO - Jobs extracted: 31400 || Current page: 628/2471
+DMWScraper:INFO - Fetching jobs from page 629
+DMWScraper:INFO - Jobs extracted: 31450 || Current page: 629/2471
+DMWScraper:INFO - Fetching jobs from page 630
+DMWScraper:INFO - Jobs extracted: 31500 || Current page: 630/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 631
+DMWScraper:INFO - Jobs extracted: 31550 || Current page: 631/2471
+DMWScraper:INFO - Fetching jobs from page 632
+DMWScraper:INFO - Jobs extracted: 31600 || Current page: 632/2471
+DMWScraper:INFO - Fetching jobs from page 633
+DMWScraper:INFO - Jobs extracted: 31650 || Current page: 633/2471
+DMWScraper:INFO - Fetching jobs from page 634
+DMWScraper:INFO - Jobs extracted: 31700 || Current page: 634/2471
+DMWScraper:INFO - Fetching jobs from page 635
+DMWScraper:INFO - Jobs extracted: 31750 || Current page: 635/2471
+DMWScraper:INFO - Fetching jobs from page 636
+DMWScraper:INFO - Jobs extracted: 31800 || Current page: 636/2471
+DMWScraper:INFO - Fetching jobs from page 637
+DMWScraper:INFO - Jobs extracted: 31850 || Current page: 637/2471
+DMWScraper:INFO - Fetching jobs from page 638
+DMWScraper:INFO - Jobs extracted: 31900 || Current page: 638/2471
+DMWScraper:INFO - Fetching jobs from page 639
+DMWScraper:INFO - Jobs extracted: 31950 || Current page: 639/2471
+DMWScraper:INFO - Fetching jobs from page 640
+DMWScraper:INFO - Jobs extracted: 32000 || Current page: 640/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 641
+DMWScraper:INFO - Jobs extracted: 32050 || Current page: 641/2471
+DMWScraper:INFO - Fetching jobs from page 642
+DMWScraper:INFO - Jobs extracted: 32100 || Current page: 642/2471
+DMWScraper:INFO - Fetching jobs from page 643
+DMWScraper:INFO - Jobs extracted: 32150 || Current page: 643/2471
+DMWScraper:INFO - Fetching jobs from page 644
+DMWScraper:INFO - Jobs extracted: 32200 || Current page: 644/2471
+DMWScraper:INFO - Fetching jobs from page 645
+DMWScraper:INFO - Jobs extracted: 32250 || Current page: 645/2471
+DMWScraper:INFO - Fetching jobs from page 646
+DMWScraper:INFO - Jobs extracted: 32300 || Current page: 646/2471
+DMWScraper:INFO - Fetching jobs from page 647
+DMWScraper:INFO - Jobs extracted: 32350 || Current page: 647/2471
+DMWScraper:INFO - Fetching jobs from page 648
+DMWScraper:INFO - Jobs extracted: 32400 || Current page: 648/2471
+DMWScraper:INFO - Fetching jobs from page 649
+DMWScraper:INFO - Jobs extracted: 32450 || Current page: 649/2471
+DMWScraper:INFO - Fetching jobs from page 650
+DMWScraper:INFO - Jobs extracted: 32500 || Current page: 650/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 651
+DMWScraper:INFO - Jobs extracted: 32550 || Current page: 651/2471
+DMWScraper:INFO - Fetching jobs from page 652
+DMWScraper:INFO - Jobs extracted: 32600 || Current page: 652/2471
+DMWScraper:INFO - Fetching jobs from page 653
+DMWScraper:INFO - Jobs extracted: 32650 || Current page: 653/2471
+DMWScraper:INFO - Fetching jobs from page 654
+DMWScraper:INFO - Jobs extracted: 32700 || Current page: 654/2471
+DMWScraper:INFO - Fetching jobs from page 655
+DMWScraper:INFO - Jobs extracted: 32750 || Current page: 655/2471
+DMWScraper:INFO - Fetching jobs from page 656
+DMWScraper:INFO - Jobs extracted: 32800 || Current page: 656/2471
+DMWScraper:INFO - Fetching jobs from page 657
+DMWScraper:INFO - Jobs extracted: 32850 || Current page: 657/2471
+DMWScraper:INFO - Fetching jobs from page 658
+DMWScraper:INFO - Jobs extracted: 32900 || Current page: 658/2471
+DMWScraper:INFO - Fetching jobs from page 659
+DMWScraper:INFO - Jobs extracted: 32950 || Current page: 659/2471
+DMWScraper:INFO - Fetching jobs from page 660
+DMWScraper:INFO - Jobs extracted: 33000 || Current page: 660/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 661
+DMWScraper:INFO - Jobs extracted: 33050 || Current page: 661/2471
+DMWScraper:INFO - Fetching jobs from page 662
+DMWScraper:INFO - Jobs extracted: 33100 || Current page: 662/2471
+DMWScraper:INFO - Fetching jobs from page 663
+DMWScraper:INFO - Jobs extracted: 33150 || Current page: 663/2471
+DMWScraper:INFO - Fetching jobs from page 664
+DMWScraper:INFO - Jobs extracted: 33200 || Current page: 664/2471
+DMWScraper:INFO - Fetching jobs from page 665
+DMWScraper:INFO - Jobs extracted: 33250 || Current page: 665/2471
+DMWScraper:INFO - Fetching jobs from page 666
+DMWScraper:INFO - Jobs extracted: 33300 || Current page: 666/2471
+DMWScraper:INFO - Fetching jobs from page 667
+DMWScraper:INFO - Jobs extracted: 33350 || Current page: 667/2471
+DMWScraper:INFO - Fetching jobs from page 668
+DMWScraper:INFO - Jobs extracted: 33400 || Current page: 668/2471
+DMWScraper:INFO - Fetching jobs from page 669
+DMWScraper:INFO - Jobs extracted: 33450 || Current page: 669/2471
+DMWScraper:INFO - Fetching jobs from page 670
+DMWScraper:INFO - Jobs extracted: 33500 || Current page: 670/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 671
+DMWScraper:INFO - Jobs extracted: 33550 || Current page: 671/2471
+DMWScraper:INFO - Fetching jobs from page 672
+DMWScraper:INFO - Jobs extracted: 33600 || Current page: 672/2471
+DMWScraper:INFO - Fetching jobs from page 673
+DMWScraper:INFO - Jobs extracted: 33650 || Current page: 673/2471
+DMWScraper:INFO - Fetching jobs from page 674
+DMWScraper:INFO - Jobs extracted: 33700 || Current page: 674/2471
+DMWScraper:INFO - Fetching jobs from page 675
+DMWScraper:INFO - Jobs extracted: 33750 || Current page: 675/2471
+DMWScraper:INFO - Fetching jobs from page 676
+DMWScraper:INFO - Jobs extracted: 33800 || Current page: 676/2471
+DMWScraper:INFO - Fetching jobs from page 677
+DMWScraper:INFO - Jobs extracted: 33850 || Current page: 677/2471
+DMWScraper:INFO - Fetching jobs from page 678
+DMWScraper:INFO - Jobs extracted: 33900 || Current page: 678/2471
+DMWScraper:INFO - Fetching jobs from page 679
+DMWScraper:INFO - Jobs extracted: 33950 || Current page: 679/2471
+DMWScraper:INFO - Fetching jobs from page 680
+DMWScraper:INFO - Jobs extracted: 34000 || Current page: 680/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 681
+DMWScraper:INFO - Jobs extracted: 34050 || Current page: 681/2471
+DMWScraper:INFO - Fetching jobs from page 682
+DMWScraper:INFO - Jobs extracted: 34100 || Current page: 682/2471
+DMWScraper:INFO - Fetching jobs from page 683
+DMWScraper:INFO - Jobs extracted: 34150 || Current page: 683/2471
+DMWScraper:INFO - Fetching jobs from page 684
+DMWScraper:INFO - Jobs extracted: 34200 || Current page: 684/2471
+DMWScraper:INFO - Fetching jobs from page 685
+DMWScraper:INFO - Jobs extracted: 34250 || Current page: 685/2471
+DMWScraper:INFO - Fetching jobs from page 686
+DMWScraper:INFO - Jobs extracted: 34300 || Current page: 686/2471
+DMWScraper:INFO - Fetching jobs from page 687
+DMWScraper:INFO - Jobs extracted: 34350 || Current page: 687/2471
+DMWScraper:INFO - Fetching jobs from page 688
+DMWScraper:INFO - Jobs extracted: 34400 || Current page: 688/2471
+DMWScraper:INFO - Fetching jobs from page 689
+DMWScraper:INFO - Jobs extracted: 34450 || Current page: 689/2471
+DMWScraper:INFO - Fetching jobs from page 690
+DMWScraper:INFO - Jobs extracted: 34500 || Current page: 690/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 691
+DMWScraper:INFO - Jobs extracted: 34550 || Current page: 691/2471
+DMWScraper:INFO - Fetching jobs from page 692
+DMWScraper:INFO - Jobs extracted: 34600 || Current page: 692/2471
+DMWScraper:INFO - Fetching jobs from page 693
+DMWScraper:INFO - Jobs extracted: 34650 || Current page: 693/2471
+DMWScraper:INFO - Fetching jobs from page 694
+DMWScraper:INFO - Jobs extracted: 34700 || Current page: 694/2471
+DMWScraper:INFO - Fetching jobs from page 695
+DMWScraper:INFO - Jobs extracted: 34750 || Current page: 695/2471
+DMWScraper:INFO - Fetching jobs from page 696
+DMWScraper:INFO - Jobs extracted: 34800 || Current page: 696/2471
+DMWScraper:INFO - Fetching jobs from page 697
+DMWScraper:INFO - Jobs extracted: 34850 || Current page: 697/2471
+DMWScraper:INFO - Fetching jobs from page 698
+DMWScraper:INFO - Jobs extracted: 34900 || Current page: 698/2471
+DMWScraper:INFO - Fetching jobs from page 699
+DMWScraper:INFO - Jobs extracted: 34950 || Current page: 699/2471
+DMWScraper:INFO - Fetching jobs from page 700
+DMWScraper:INFO - Jobs extracted: 35000 || Current page: 700/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 701
+DMWScraper:INFO - Jobs extracted: 35050 || Current page: 701/2471
+DMWScraper:INFO - Fetching jobs from page 702
+DMWScraper:INFO - Jobs extracted: 35100 || Current page: 702/2471
+DMWScraper:INFO - Fetching jobs from page 703
+DMWScraper:INFO - Jobs extracted: 35150 || Current page: 703/2471
+DMWScraper:INFO - Fetching jobs from page 704
+DMWScraper:INFO - Jobs extracted: 35200 || Current page: 704/2471
+DMWScraper:INFO - Fetching jobs from page 705
+DMWScraper:INFO - Jobs extracted: 35250 || Current page: 705/2471
+DMWScraper:INFO - Fetching jobs from page 706
+DMWScraper:INFO - Jobs extracted: 35300 || Current page: 706/2471
+DMWScraper:INFO - Fetching jobs from page 707
+DMWScraper:INFO - Jobs extracted: 35350 || Current page: 707/2471
+DMWScraper:INFO - Fetching jobs from page 708
+DMWScraper:INFO - Jobs extracted: 35400 || Current page: 708/2471
+DMWScraper:INFO - Fetching jobs from page 709
+DMWScraper:INFO - Jobs extracted: 35450 || Current page: 709/2471
+DMWScraper:INFO - Fetching jobs from page 710
+DMWScraper:INFO - Jobs extracted: 35500 || Current page: 710/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 711
+DMWScraper:INFO - Jobs extracted: 35550 || Current page: 711/2471
+DMWScraper:INFO - Fetching jobs from page 712
+DMWScraper:INFO - Jobs extracted: 35600 || Current page: 712/2471
+DMWScraper:INFO - Fetching jobs from page 713
+DMWScraper:INFO - Jobs extracted: 35650 || Current page: 713/2471
+DMWScraper:INFO - Fetching jobs from page 714
+DMWScraper:INFO - Jobs extracted: 35700 || Current page: 714/2471
+DMWScraper:INFO - Fetching jobs from page 715
+DMWScraper:INFO - Jobs extracted: 35750 || Current page: 715/2471
+DMWScraper:INFO - Fetching jobs from page 716
+DMWScraper:INFO - Jobs extracted: 35800 || Current page: 716/2471
+DMWScraper:INFO - Fetching jobs from page 717
+DMWScraper:INFO - Jobs extracted: 35850 || Current page: 717/2471
+DMWScraper:INFO - Fetching jobs from page 718
+DMWScraper:INFO - Jobs extracted: 35900 || Current page: 718/2471
+DMWScraper:INFO - Fetching jobs from page 719
+DMWScraper:INFO - Jobs extracted: 35950 || Current page: 719/2471
+DMWScraper:INFO - Fetching jobs from page 720
+DMWScraper:INFO - Jobs extracted: 36000 || Current page: 720/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 721
+DMWScraper:INFO - Jobs extracted: 36050 || Current page: 721/2471
+DMWScraper:INFO - Fetching jobs from page 722
+DMWScraper:INFO - Jobs extracted: 36100 || Current page: 722/2471
+DMWScraper:INFO - Fetching jobs from page 723
+DMWScraper:INFO - Jobs extracted: 36150 || Current page: 723/2471
+DMWScraper:INFO - Fetching jobs from page 724
+DMWScraper:INFO - Jobs extracted: 36200 || Current page: 724/2471
+DMWScraper:INFO - Fetching jobs from page 725
+DMWScraper:INFO - Jobs extracted: 36250 || Current page: 725/2471
+DMWScraper:INFO - Fetching jobs from page 726
+DMWScraper:INFO - Jobs extracted: 36300 || Current page: 726/2471
+DMWScraper:INFO - Fetching jobs from page 727
+DMWScraper:INFO - Jobs extracted: 36350 || Current page: 727/2471
+DMWScraper:INFO - Fetching jobs from page 728
+DMWScraper:INFO - Jobs extracted: 36400 || Current page: 728/2471
+DMWScraper:INFO - Fetching jobs from page 729
+DMWScraper:INFO - Jobs extracted: 36450 || Current page: 729/2471
+DMWScraper:INFO - Fetching jobs from page 730
+DMWScraper:INFO - Jobs extracted: 36500 || Current page: 730/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 731
+DMWScraper:INFO - Jobs extracted: 36550 || Current page: 731/2471
+DMWScraper:INFO - Fetching jobs from page 732
+DMWScraper:INFO - Jobs extracted: 36600 || Current page: 732/2471
+DMWScraper:INFO - Fetching jobs from page 733
+DMWScraper:INFO - Jobs extracted: 36650 || Current page: 733/2471
+DMWScraper:INFO - Fetching jobs from page 734
+DMWScraper:INFO - Jobs extracted: 36700 || Current page: 734/2471
+DMWScraper:INFO - Fetching jobs from page 735
+DMWScraper:INFO - Jobs extracted: 36750 || Current page: 735/2471
+DMWScraper:INFO - Fetching jobs from page 736
+DMWScraper:INFO - Jobs extracted: 36800 || Current page: 736/2471
+DMWScraper:INFO - Fetching jobs from page 737
+DMWScraper:INFO - Jobs extracted: 36850 || Current page: 737/2471
+DMWScraper:INFO - Fetching jobs from page 738
+DMWScraper:INFO - Jobs extracted: 36900 || Current page: 738/2471
+DMWScraper:INFO - Fetching jobs from page 739
+DMWScraper:INFO - Jobs extracted: 36950 || Current page: 739/2471
+DMWScraper:INFO - Fetching jobs from page 740
+DMWScraper:INFO - Jobs extracted: 37000 || Current page: 740/2471
+DMWScraper:INFO - Saving data to csv...
+DMWScraper:INFO - Records saved to >> ./output/jobs_2023-07-26.csv
+DMWScraper:INFO - Fetching jobs from page 741
